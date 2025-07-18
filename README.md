@@ -79,19 +79,20 @@ View, add, edit, and delete criminal profiles from the database.
 ### Detection
 Use your camera to scan and identify individuals in real-time.
 
-## Screenshots
+## Screenshots And Demo
+Demo:https://photos.app.goo.gl/GG41JhxycK9x7kWf9
 
 ### Dark Mode
 ![Dark Mode](Screenshots/homepage.jpg)
 
 ### add new criminal
-![add new criminal](Screenshots/new_criminal.jpg)
+![add new criminal](Screenshots/add_new_criminal.jpg)
 
 ### Criminal Profiles
-![Profiles](Screenshots/criminal_profiles.png)
+![Profiles](Screenshots/criminal_profiles.jpg)
 
 ### Criminal Details
-![Details](Screenshots/criminal_identified.png)
+![Details](Screenshots/criminal_identified.jpg)
 
 ## Contributing
 
